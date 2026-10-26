@@ -1,3 +1,3 @@
 public interface MathStrategy {
-	public int Calculate(int a, int b);
+	public void Calculate(int a, int b);
 }
