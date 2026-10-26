@@ -1,0 +1,6 @@
+src/Main.java
+src/context/Calculator.java
+src/strategies/MathStrategy.java
+src/strategies/AddStrategy.java
+src/strategies/SubtractStrategy.java
+src/strategies/MultiplyStrategy.java
